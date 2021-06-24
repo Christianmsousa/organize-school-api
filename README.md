@@ -1,9 +1,12 @@
-<h1 align="center">Organize API</h1>
-<p align="center">
+<h1 align="center" style="font-size: 40px">Organize API</h1>
+<p align="center" style="font-size: 18px">
   Uma API de gerenciamento de escola.
 </p>
 <br>
 <br>
+<p align="center">
+  <img src="https://i.imgur.com/CGGzrbw.png" width="226" alt="Tecnologias" />
+</p>
 
 ## Sobre
 
