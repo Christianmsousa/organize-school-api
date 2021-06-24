@@ -1,0 +1,15 @@
+com/organize/school/SchoolApplication.class
+com/organize/school/domain/Turma.class
+com/organize/school/domain/Permissao.class
+com/organize/school/interfaces/controllers/UsuarioController.class
+com/organize/school/security/Session.class
+com/organize/school/security/SecurityService.class
+com/organize/school/repository/UsuarioRepository.class
+com/organize/school/domain/Disciplina.class
+com/organize/school/config/SecurityConfiguration.class
+com/organize/school/security/TokenUtils.class
+com/organize/school/config/WebConfiguration.class
+com/organize/school/domain/Professor.class
+com/organize/school/domain/Aluno.class
+com/organize/school/config/AuthMiddleware.class
+com/organize/school/domain/Usuario.class

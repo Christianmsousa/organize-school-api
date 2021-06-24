@@ -1,0 +1,15 @@
+/home/cristiansousa/Documents/school/src/main/java/com/organize/school/SchoolApplication.java
+/home/cristiansousa/Documents/school/src/main/java/com/organize/school/config/WebConfiguration.java
+/home/cristiansousa/Documents/school/src/main/java/com/organize/school/domain/Permissao.java
+/home/cristiansousa/Documents/school/src/main/java/com/organize/school/domain/Disciplina.java
+/home/cristiansousa/Documents/school/src/main/java/com/organize/school/security/SecurityService.java
+/home/cristiansousa/Documents/school/src/main/java/com/organize/school/config/SecurityConfiguration.java
+/home/cristiansousa/Documents/school/src/main/java/com/organize/school/interfaces/controllers/UsuarioController.java
+/home/cristiansousa/Documents/school/src/main/java/com/organize/school/security/Session.java
+/home/cristiansousa/Documents/school/src/main/java/com/organize/school/repository/UsuarioRepository.java
+/home/cristiansousa/Documents/school/src/main/java/com/organize/school/security/TokenUtils.java
+/home/cristiansousa/Documents/school/src/main/java/com/organize/school/domain/Aluno.java
+/home/cristiansousa/Documents/school/src/main/java/com/organize/school/config/AuthMiddleware.java
+/home/cristiansousa/Documents/school/src/main/java/com/organize/school/domain/Usuario.java
+/home/cristiansousa/Documents/school/src/main/java/com/organize/school/domain/Professor.java
+/home/cristiansousa/Documents/school/src/main/java/com/organize/school/domain/Turma.java
